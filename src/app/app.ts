@@ -1,5 +1,5 @@
 import { Component} from '@angular/core';
-import { EditorFiltroComponent } from './editor-filtro/editor-filtro'; 
+import { EditorFiltroComponent } from './editor-filtro/editor-filtro';
 
 @Component({
   selector: 'app-root',
@@ -8,5 +8,4 @@ import { EditorFiltroComponent } from './editor-filtro/editor-filtro';
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })
-export class App {
-}
+export class App {}
